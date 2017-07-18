@@ -11,16 +11,10 @@ public class DiceRoll {
         Random randGen = new Random();
 
         int userInput = 1;
-        String userName = "";
         String answer = "Y";
 
         do {
-            System.out.print("Welcome, ");
-            System.out.print(userName);
-            userName = scan.next();
-            scan.nextLine();
-
-            System.out.println("To the Grand Circus Casino!");
+            System.out.println("Welcome to the Grand Circus Casino!");
             System.out.println();
 
             System.out.print("How many sides should each die have? ");
@@ -32,7 +26,7 @@ public class DiceRoll {
             System.out.println(random(userInput));
             System.out.println();
 
-            System.out.println(userName + ", would you like to roll again? Y/N");
+            System.out.println("Would you like to roll again? Please press (y/n)");
             answer = scan.next();
 
         }
@@ -42,7 +36,10 @@ public class DiceRoll {
         public static int random ( int userInput){
             Random randGen = new Random();
             return (randGen.nextInt(userInput) + 1);
+
         }
+
+        
 
 
 }
