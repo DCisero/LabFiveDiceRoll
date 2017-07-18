@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25c30f5-43d6-4543-ae17-6a36af5ae9c4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled104/DiceRoll.class" afterPath="$PROJECT_DIR$/out/production/untitled104/DiceRoll.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DiceRoll.java" afterPath="$PROJECT_DIR$/src/DiceRoll.java" />
     </list>
@@ -20,8 +19,8 @@
       <file leaf-file-name="DiceRoll.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DiceRoll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+            <state relative-caret-position="343">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -565,15 +564,15 @@
       <workItem from="1500039865647" duration="4000" />
       <workItem from="1500041608670" duration="87000" />
       <workItem from="1500061025636" duration="6000" />
-      <workItem from="1500420186070" duration="272000" />
+      <workItem from="1500420186070" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5404000" />
+    <option name="totallyTimeSpent" value="5562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="23" width="1095" height="773" extended-state="0" />
+    <frame x="97" y="23" width="1095" height="773" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -731,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DiceRoll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        <state relative-caret-position="343">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
